@@ -1,8 +1,8 @@
 # ellamahaliaaa.github.io
 
-#Interest in Data Analytics 
+Interest in Data Analytics 
 
-#Education
+Education
 
 Baruch College - Undergraduate Degree acheived May 2025 
 
