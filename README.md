@@ -47,9 +47,8 @@ optimizing task management with API endpoints for creating, updating, and deleti
 
 # Extracircular Activities 
 
-## Marketing Chair
-## ColorStack Baruch Chapter
-## January 2024 - Present
+## Marketing Chair | ColorStack Baruch Chapter |
+
 
 - Utilized digital marketing tools to successfully promote club events, leading to increased
 engagement and attendance.
