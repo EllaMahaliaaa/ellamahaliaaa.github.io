@@ -1,4 +1,4 @@
-# Interest in Data Analytics 
+### Interest in Data Analytics 
 
 ## Education
 
@@ -7,7 +7,7 @@ Major: Computer Information Systems
 Minor: Law and Policy 
 
 ## Work Experince 
-# Home Depot 
+#Home Depot 
 ● Utilized data analytics tools to identify trends in customer purchasing behavior, providing insights for inventory
 management and product placement decisions during the holiday season to boost sales by 79%
 ● Led training sessions for cashier staff on utilizing new technology and software updates, improving customer
