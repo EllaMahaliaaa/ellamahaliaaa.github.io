@@ -3,8 +3,11 @@
 # Education
 
 Baruch College
+
 Major: Computer Information Systems 
+
 Minor: Law and Policy
+
 Garduation Date: May 2025 
 
 # Work Experince 
