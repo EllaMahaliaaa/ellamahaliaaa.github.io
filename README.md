@@ -15,7 +15,7 @@ satisfaction during peak shopping periods with the IT staff
 
 # Projects
 
-Predict Flight Prices Using Expedia 
+# Predict Flight Prices Using Expedia 
 
 ● Predicted airline ticket prices using Expedia flight data, considering factors like airports, airlines, seat availability, and travel duration, achieving an R² score of 0.352 and RMSE of 129.84.
 ● Conducted data acquisition in Google Cloud Storage, performed EDA to analyze fare distributions and correlations, and cleaned data by removing unnecessary columns and handling missing values.
@@ -28,5 +28,13 @@ a portfolio website.
 house prices
 - Achieved a 65% R² score and evaluated the model using mean squared error, mean
 absolute error, and root-mean-square deviation to assess its performance.
+
+# KanbanFlow Clone
+- Full-stack project management application, developed with a team of 3 to improve task tracking
+and team collaboration.
+- Designed and implemented the login and registration form, utilizing Auth0 for secure user
+authentication and streamlined onboarding.
+- Improved user experience by ensuring secure access, reducing potential security risks, and
+optimizing task management with API endpoints for creating, updating, and deleting tasks.
 
 
